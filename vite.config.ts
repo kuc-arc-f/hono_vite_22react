@@ -20,6 +20,7 @@ export default defineConfig(({ mode }) => {
           entry: [
             './src/client.ts',
             './src/client/Page2.ts',
+            './src/client/Page4.ts',
           ],
           formats: ['es'],
           fileName: '[name]',
